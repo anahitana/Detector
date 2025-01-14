@@ -1,6 +1,6 @@
-# Detector
+# TinTin
 
-Detector is a AI developed using Neural Networks and the saved model categorizes ships defects into 5 categories:
+TinTin is a AI developed using Neural Networks and the saved model categorizes ships defects into 5 categories:
 - Rust
 - Scratches
 - Pitted
